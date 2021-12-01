@@ -1,0 +1,19 @@
+#!/bin/bash
+
+echo "instalando dependências"
+
+sudo apt install python3
+sudo pip3 install python-dateutil
+sudo pip3 install pysqlite3
+sudo pip3 install gerencianet
+sudo pip3 install mercadopago
+sudo pip3 install pyopenssl
+sudo pip3 install pytz
+sudo pip3 install qrcode
+sudo pip3 install pillow
+sudo pip3 install matplotlib
+sudo pip3 install dufte
+sudo pip3 install deep-translator
+sudo pip3 install phonenumbers
+sudo pip3 install python-telegram-bot
+sudo pip3 install CurrencyConverter
