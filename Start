@@ -2,8 +2,7 @@
 
 echo "instalando dependências"
 
-sudo apt install python3
-sudo apt install python3-pip
+sudo pip install validate-docbr
 sudo apt install python3
 sudo apt install python3-pip
 sudo pip3 install python-dateutil
